@@ -3,37 +3,37 @@ body{
 }
 .center{
     background-color: #fff;
-    min-height: 598px;
-    max-width: 380px;
+    min-height: 395px;
+    max-width: 255px;
     margin: auto;
-    margin-top: 140px;
-    padding: 16px;
-    border-radius: 28px;
+    margin-top: 90px;
+    padding: 14px 8px;
+    border-radius: 18px;
 }
 img{
-    height: 370px;
-    width: 370px;
+    height: 246px;
+    width: 246px;
     display: block;
     margin: auto;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 h1{
     color: hsl(218, 44%, 22%);
     font-family: 'Outfit', sans-serif;
-    font-weight: bold;
-    font-size: 1.8em;
-    max-width: 360px;
+    font-weight: bolder;
+    font-size: 1.2em;
+    max-width: 250px;
     text-align: center;
-    margin:  28px 9px 10px 9px;
+    margin:  20px 14px 10px 15px;
 }
 p{
     color: hsl(220, 15%, 55%);
     font-family: 'Outfit', sans-serif;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 13px;
     text-align: center;
-    max-width: 322px;
-    margin: 22px 28px;
+    max-width: 210px;
+    margin: 12px 15px 14px 22px;
 }
 .attribution{
     text-align: center;
